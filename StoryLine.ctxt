@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StoryLine
+comment0.text=\n\ Write\ a\ description\ of\ class\ BeginningScenario\ here.\n\n\ @author\ Eunice\ Hassam\n\ @version\ 2022.11.25\n
+comment1.params=description
+comment1.target=StoryLine(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ StoryLine\n\ @param\ description\ description\ of\ the\ storyline\n
+comment2.params=it
+comment2.target=void\ addStoryline(java.lang.String)
+comment3.params=index
+comment3.target=java.lang.String\ getLine(int)
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment4.text=\n\ @return\ the\ description\n
+comment5.params=
+comment5.target=int\ getSize()
+numComments=6
